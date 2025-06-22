@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pineapple</folder>
+	<filename>pineapple_10.jpg</filename>
+	<path>D:\D\vilupuram\waste segregation\data\pineapple\pineapple_10.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pineapple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>187</xmin>
+			<ymin>14</ymin>
+			<xmax>640</xmax>
+			<ymax>560</ymax>
+		</bndbox>
+	</object>
+</annotation>
